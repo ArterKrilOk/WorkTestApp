@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="app_padding">16dp</dimen>
+    <dimen name="app_vertical_padding">8dp</dimen>
+    <dimen name="job_poster_height">200dp</dimen>
+    <dimen name="job_map_height">300dp</dimen>
+</resources>
